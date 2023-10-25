@@ -15,7 +15,7 @@ Before using this script, make sure you have the following prerequisites:
 
 1. **API Key Configuration:**
 
-   You will need to sign up on the [OpenWeatherMap website](https://openweathermap.org/) to obtain an API key. Once you have the API key, replace `"a458d08cc1562491902140366bb5ffad"` in the script with your API key:
+   You will need to sign up on the [OpenWeatherMap website](https://openweathermap.org/) to obtain an API key. Once you have the API key, replace `"**************"` in the script with your API key:
 
    ```python
    API_KEY = "your_api_key_here"
